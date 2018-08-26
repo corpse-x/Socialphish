@@ -13,7 +13,7 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
 
 ##### Video:
-[![Watch the video](https://youtu.be/t5DbgrmL680 "SocialPhish")
+[![Watch the video](https://www.youtube.com/watch?v=t5DbgrmL680)
 
 ###### Usage:
 ```
