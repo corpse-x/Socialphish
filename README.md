@@ -12,10 +12,8 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ### Screenshot
 ![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
 
-##### Video:
-[![Watch the video](https://www.youtube.com/watch?v=t5DbgrmL680)
 
-###### Usage:
+##### Usage:
 ```
 git clone https://github.com/xHak9x/SocialPhish.git
 cd SocialPhish
@@ -23,5 +21,5 @@ chmod +x socialphish.sh
 ./socialphish.sh
 ```
 
-####### Donate! 
+###### Donate! 
 Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
